@@ -1,0 +1,8 @@
+body {
+	padding:20px 50px 50px 50px;
+}
+input {
+	width: 250px;
+	height: 36px;
+	line-height: 36px;
+}
